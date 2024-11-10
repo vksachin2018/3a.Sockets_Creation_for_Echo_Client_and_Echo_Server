@@ -1,4 +1,7 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
+### DATE: 23/09/2024
+### NAME: GOKUL SACHIN K
+### REGISTER NO: 2122232200225
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
